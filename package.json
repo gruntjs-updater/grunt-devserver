@@ -43,7 +43,7 @@
     "temporary": "0.0.8"
   },
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": ">=0.4.0"
   },
   "engine": {
     "node": ">=0.10"
